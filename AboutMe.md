@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @L-eviH-AckermanYT
-- 👀 I’m interested in Pentesting 
-- 🌱 I’m currently learning Coding 
+- 👀 I’m interested in Pentesting and Coding
 - 📫 You can check my YouTube Channel 
 Link - https://youtube.com/channel/UCesromyDgMt82THV4G2_ogg
 
